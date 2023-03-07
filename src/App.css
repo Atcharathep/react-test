@@ -1,0 +1,43 @@
+body {
+    background-color: #F5F5F5;
+}
+
+.form-singin {
+    margin: auto;
+    width: 25rem;
+    transform: translate(0%, 6%);
+}
+
+img {
+    width: 25rem;
+    height: 300px;
+    border-radius: 60px;
+}
+
+.title {
+    font-family: monospace;
+    font-weight: normal;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#submit {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
